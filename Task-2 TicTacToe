@@ -1,0 +1,65 @@
+# Tic-Tac-Toe AI
+
+## Overview
+
+Tic-Tac-Toe AI is an intelligent game application developed as part of the CodSoft Artificial Intelligence Internship. The project allows a human player to compete against an AI-powered opponent in the classic Tic-Tac-Toe game.
+
+The AI analyzes the game board and selects optimal moves, demonstrating fundamental concepts of Artificial Intelligence, game theory, and decision-making algorithms.
+
+## Features
+
+* Human vs AI gameplay
+* Interactive and user-friendly interface
+* Automatic win, loss, and draw detection
+* Intelligent AI move selection
+* Responsive game board
+
+## Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* Artificial Intelligence Concepts
+* Minimax Algorithm (if implemented)
+
+## How to Play
+
+1. Open the game in a web browser.
+2. The human player plays as **X**.
+3. Click on an empty cell to make a move.
+4. The AI responds with its move automatically.
+5. The game ends when a player wins or when the board is full, resulting in a draw.
+
+## Learning Outcomes
+
+* Understanding game theory concepts
+* Implementing AI-based decision making
+* Learning search algorithms such as Minimax
+* Improving JavaScript programming skills
+* Developing interactive web applications
+
+## Future Enhancements
+
+* Alpha-Beta Pruning for optimization
+* Multiple difficulty levels
+* Score tracking system
+* Improved UI/UX design
+* Multiplayer mode
+
+## Project Structure
+
+* `index.html` – Game interface
+* `style.css` – Styling and layout
+* `script.js` – Game logic and AI implementation
+
+## Author
+
+Padma Sree
+
+## Internship
+
+CodSoft Artificial Intelligence Internship
+
+## License
+
+This project is created for educational and learning purposes.
